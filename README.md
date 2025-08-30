@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **AI- based Resume and Cover letter builder.**
+- 👯 I’m looking to collaborate on [AI- based Resume and Cover letter builder](https://github.com/sejalPusate/AI-based-Resume-and-Cover-letter-Builder)
 
 - 🤝 I’m looking for help with [Zomato Clone](https://github.com/sejalPusate/zomato-clone)
 
