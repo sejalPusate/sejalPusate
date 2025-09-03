@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sejal Pusate</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://gifs.alphacoders.com/gifs/view/4731)" width="120px" height="120px">
+<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://gifs.alphacoders.com/gifs/view/4731)](https://gifs.alphacoders.com/gifs/download/4731.gif)" width="120px" height="120px">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejalpusate&label=Profile%20views&color=0e75b6&style=flat" alt="sejalpusate" /> </p>
