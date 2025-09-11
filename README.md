@@ -6,8 +6,17 @@
 
 
 <h1 align="center">
-  Hi There! 👋 I'm <span style="color:#e6399b; font-weight:bold;">Sejal Pusate</span>
+  Hi There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm
 </h1>
+
+<h1 align="center">
+  <b><span style="color:#e6399b;">✨ Sejal Pusate ✨</span></b>
+</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="center">
