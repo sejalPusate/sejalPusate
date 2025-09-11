@@ -5,7 +5,9 @@
 <h1 Brainstorming, Breaking, and Building the Multiverse of Code! </h1>
 
 
-<h1 align="center">Hi 👋, I'm Sejal Pusate</h1>
+<h1 align="center">
+  Hi There! 👋 I'm <span style="color:#e6399b; font-weight:bold;">Sejal Pusate</span>
+</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="center">
