@@ -9,14 +9,6 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="center">
-  <img src="assets/9788.gif" width="400" alt="Sejal's gif" />
-</p>
-
-<p align="center">
-  <img src="assets/214557.gif" width="400" alt="Sejal's gif" />
-</p>
-
-<p align="center">
   <img src="assets/4731.gif" width="400" alt="Sejal's gif" />
 </p>
 
