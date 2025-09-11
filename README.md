@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assets/211265.gif" width="400" alt="Sejal's gif" />
+</p>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Sejal Pusate</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
