@@ -2,15 +2,11 @@
   <img src="assets/211265.gif" width="900" alt="Sejal's gif" />
 </p>
 
-
+<h1 Brainstorming, Breaking, and Building the Multiverse of Code! </h1>
 
 
 <h1 align="center">Hi 👋, I'm Sejal Pusate</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
-<p align="center">
-  <img src="assets/44306.gif" width="400" alt="Sejal's gif" />
-</p>
 
 <p align="center">
   <img src="assets/9788.gif" width="400" alt="Sejal's gif" />
