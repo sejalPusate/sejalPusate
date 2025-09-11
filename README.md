@@ -47,7 +47,7 @@
 
 ## 🚀 Languages, Tools and Technologies  
 
-<table>
+<table align = "center">
   <tr>
     <th>Programming Languages</th>
     <td>
