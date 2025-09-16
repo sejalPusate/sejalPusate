@@ -110,4 +110,6 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sejalpusate&show_icons=true&locale=en&layout=pie" alt="sejalpusate" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sejalpusate&show_icons=true&locale=en&layout=pie" alt="sejalpusate" />
+</p>
