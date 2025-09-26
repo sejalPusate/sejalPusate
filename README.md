@@ -28,9 +28,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sejalpusate" alt="sejalpusate" /></a> </p>
 
-- 🔭 I’m currently working on **Environmental Impact Analyser**
+- 🔭 I’m currently working on **AI Document Search Chatbot**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science and AI**
 
 - 👯 I’m looking to collaborate on [AI- based Resume and Cover letter builder](https://github.com/sejalPusate/AI-based-Resume-and-Cover-letter-Builder)
 
