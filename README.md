@@ -103,13 +103,3 @@
     </td>
   </tr>
 </table>
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SejalPusate&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sejalpusate&show_icons=true&locale=en&layout=pie" alt="sejalpusate" />
-</p>
