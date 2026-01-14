@@ -47,80 +47,87 @@
 
 ## 🚀 Languages, Tools & Technologies
 
-<table>
-  <tr>
-    <th align="left">Programming Languages</th>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+<div align="center">
+
+<table style="border-collapse: separate; border-spacing: 0 14px; width: 90%; background-color: #0d1117;">
+  
+  <tr style="background:#161b22; box-shadow: 0 0 12px rgba(88,166,255,0.15);">
+    <th align="left" style="padding:16px; width:260px;">Programming Languages</th>
+    <td style="padding:16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42"/>
     </td>
   </tr>
 
-  <tr>
-    <th align="left">Frontend Development</th>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <tr style="background:#161b22; box-shadow: 0 0 12px rgba(88,166,255,0.15);">
+    <th align="left" style="padding:16px;">Frontend Development</th>
+    <td style="padding:16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="42"/>
     </td>
   </tr>
 
-  <tr>
-    <th align="left">Backend Development</th>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <tr style="background:#161b22; box-shadow: 0 0 12px rgba(88,166,255,0.15);">
+    <th align="left" style="padding:16px;">Backend Development</th>
+    <td style="padding:16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42"/>
     </td>
   </tr>
 
-  <tr>
-    <th align="left">Database Technologies</th>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <tr style="background:#161b22; box-shadow: 0 0 12px rgba(88,166,255,0.15);">
+    <th align="left" style="padding:16px;">Database Technologies</th>
+    <td style="padding:16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42"/>
     </td>
   </tr>
 
-  <tr>
-    <th align="left">Frameworks & Libraries</th>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="40"/>
+  <tr style="background:#161b22; box-shadow: 0 0 12px rgba(88,166,255,0.15);">
+    <th align="left" style="padding:16px;">Frameworks & Libraries</th>
+    <td style="padding:16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="42"/>
     </td>
   </tr>
 
-  <tr>
-    <th align="left">Deployment</th>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <tr style="background:#161b22; box-shadow: 0 0 12px rgba(88,166,255,0.15);">
+    <th align="left" style="padding:16px;">Deployment</th>
+    <td style="padding:16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="42"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42"/>
     </td>
   </tr>
 
-  <tr>
-    <th align="left">Cloud Deployment</th>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <tr style="background:#161b22; box-shadow: 0 0 12px rgba(88,166,255,0.15);">
+    <th align="left" style="padding:16px;">Cloud Deployment</th>
+    <td style="padding:16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="42"/>
     </td>
   </tr>
 
-  <tr>
-    <th align="left">Debugging Tools</th>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
+  <tr style="background:#161b22; box-shadow: 0 0 12px rgba(88,166,255,0.15);">
+    <th align="left" style="padding:16px;">Debugging Tools</th>
+    <td style="padding:16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="42"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42"/>
     </td>
   </tr>
 
-  <tr>
-    <th align="left">Operating System</th>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40"/>
+  <tr style="background:#161b22; box-shadow: 0 0 12px rgba(88,166,255,0.15);">
+    <th align="left" style="padding:16px;">Operating System</th>
+    <td style="padding:16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="42"/>
     </td>
   </tr>
+
 </table>
+
+</div>
+
 
